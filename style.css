@@ -340,7 +340,6 @@ section.formcontato{
 }
 
 .formcontato__contacto{
-    
     display: flex;
     margin: 0 auto;
     max-width: 1440px;
@@ -632,7 +631,6 @@ section.title{
     width: 43vw;
     height: 26vw;
     margin-bottom: 5%;
-    
 }
 /*Hobbies*/
 .hobbies__line{
